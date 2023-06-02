@@ -9,14 +9,16 @@ The analysis consists of:<br>
 
 
 <hr>
-For more information please read our paper:
+For more information please read our paper:<br>
+<pre>
 @Article{kouliaridis2023,
-AUTHOR = {Kouliaridis, Vasileios and Karopoulos, Georgios and Kambourakis, Georgios},
-TITLE = {Assessing the Security and Privacy of Android Official ID Wallet Apps},
-JOURNAL = {},
-VOLUME = {},
-YEAR = {2023},
-NUMBER = {},
-ISSN = {},
-DOI = {}
+  AUTHOR = {Kouliaridis, Vasileios and Karopoulos, Georgios and Kambourakis, Georgios},
+  TITLE = {Assessing the Security and Privacy of Android Official ID Wallet Apps},
+  JOURNAL = {},
+  VOLUME = {},
+  YEAR = {2023},
+  NUMBER = {},
+  ISSN = {},
+  DOI = {}
 }
+</pre>
